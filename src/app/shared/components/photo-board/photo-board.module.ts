@@ -8,6 +8,5 @@ import { PhotoBoardComponent } from './photo-board.component';
   declarations: [PhotoBoardComponent],
   imports: [CommonModule, PhotoFrameModule],
   exports: [PhotoBoardComponent],
-  providers: [PhotoBoardService],
 })
 export class PhotoBoardModule {}
